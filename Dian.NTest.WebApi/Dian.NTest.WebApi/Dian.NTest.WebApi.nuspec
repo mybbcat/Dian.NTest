@@ -7,12 +7,12 @@
     <authors>HaungShengnan</authors>
     <owners>HaungShengnan</owners>
     <licenseUrl>http://www.opensource.org/licenses/MIT</licenseUrl>
-    <projectUrl>https://github.com/mybbcat/Dian.NTest.WebApi</projectUrl>
+    <projectUrl>https://github.com/mybbcat/Dian.NTest/tree/master/Dian.NTest.WebApi</projectUrl>
     <iconUrl>https://gravatar.com/images/grav-logo-2x.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>$description$</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <description>能够提交效率的 WEB API 的单元测试辅助类</description>
+    <releaseNotes></releaseNotes>
     <copyright>Copyright 2015</copyright>
-    <tags>Tag1 Tag2</tags>
+    <tags>ASP.NET web API</tags>
   </metadata>
 </package>
