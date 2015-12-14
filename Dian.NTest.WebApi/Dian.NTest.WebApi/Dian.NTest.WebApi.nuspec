@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Dian.NTest.WebApi</id>
+    <version>1.0.0.0</version>
+    <title>Dian.NTest.WebApi</title>
+    <authors>HaungShengnan</authors>
+    <owners>HaungShengnan</owners>
+    <licenseUrl>http://www.opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/mybbcat/Dian.NTest.WebApi</projectUrl>
+    <iconUrl>https://gravatar.com/images/grav-logo-2x.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Tag1 Tag2</tags>
+  </metadata>
+</package>
